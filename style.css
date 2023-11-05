@@ -1,0 +1,28 @@
+body{
+    background-color: bisque;
+
+}
+h1{
+    font-size: 150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+
+}
+ul{
+    color: blueviolet;
+    padding-right: 1px;
+}
+#box{
+    position:relative;
+}
+div{
+    margin: 20px
+}
+img{
+    border:2px solid lightblue;
+    border-radius: 2px;
+}
+ol{
+    color:brown;
+    background-color: aqua;
+    background-position-x: 25px;
+}
